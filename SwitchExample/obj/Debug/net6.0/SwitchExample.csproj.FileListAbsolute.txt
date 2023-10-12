@@ -1,0 +1,14 @@
+D:\platzi\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.exe
+D:\platzi\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.deps.json
+D:\platzi\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.runtimeconfig.json
+D:\platzi\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.dll
+D:\platzi\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.pdb
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfoInputs.cache
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfo.cs
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.csproj.CoreCompileInputs.cache
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.dll
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\refint\SwitchExample.dll
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.pdb
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.genruntimeconfig.cache
+D:\platzi\SwitchExample\SwitchExample\obj\Debug\net6.0\ref\SwitchExample.dll
